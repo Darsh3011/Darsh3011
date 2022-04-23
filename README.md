@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darsh3011
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Js and Node Js
+- 👀 I’m interested in Web Development and Business Analytics
+- 🌱 I’m currently learning React Js, Node Js, Power BI and Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Darsh3011
-- 👀 I’m interested in Web Development and Business Analytics
+- 👀 I’m interested in Web Development, Data Analytics and Business Analytics
 - 🌱 I’m currently learning React Js, Node Js, Power BI and Tableau
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Darsh3011/Darsh3011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
